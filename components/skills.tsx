@@ -8,13 +8,16 @@ const skills = [
   { name: "React.Js", level: 90 },
   { name: "Redux", level: 90 },
   { name: "JavaScript", level: 90 },
-  { name: "TypeScript", level: 50 },
+  { name: "TypeScript", level: 100 },
+  { name: "Next.Js", level: 80 },
   { name: "Tailwind CSS", level: 100 },
   { name: "Bootsrap", level: 100 },
   { name: "Node.js", level: 80 },
   { name: "MongoDB", level: 80 },
   { name: "React Native", level: 80 },
   { name: "Github", level: 100 },
+  { name: "Unit Testing", level: 80 },
+  { name: "SQL", level: 100 },
 ];
 
 const Skills = () => {

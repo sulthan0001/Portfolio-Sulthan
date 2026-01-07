@@ -37,7 +37,7 @@ const Experience = () => {
 
               <div className="flex items-center mb-6 text-gray-400 text-sm">
                 <CalendarDays size={16} className="mr-2" />
-                <span>SRNR IT SOLUTIONS | Jan-2025 - Present</span>
+                <span>SRNR IT SOLUTIONS | Jan-2025 - Jan-2026</span>
               </div>
 
               <div className="p-6 bg-voilet rounded-lg shadow-md">

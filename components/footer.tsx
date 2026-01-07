@@ -13,7 +13,7 @@ import { useState, useEffect } from "react"
 
 export const navItems = [
   { id: "home", label: "Home", icon: Home },
-  { id: "about", label: "About", icon: User },
+  // { id: "about", label: "About", icon: User },
   { id: "projects", label: "Projects", icon: BookOpen },
   { id: "skills", label: "Skills", icon: Layers },
   { id: "experience", label: "Experience", icon: Briefcase },

@@ -97,7 +97,7 @@ const Hero = () => {
                 asChild
               >
                 <a
-                  href="/Resume_Updated.docx"
+                  href="/Sulthan_Basha_React_Developer_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   download
